@@ -1,5 +1,7 @@
 baseURL = 'http://sarahrblyth.com/'
 languageCode = 'en-us'
 title = 'Sarah Blyth'
-theme = 'beautifulhugo'
-copyright = '2023'
+theme = 'PaperMod'
+
+[params]
+    hideFooter = true

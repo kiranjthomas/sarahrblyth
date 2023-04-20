@@ -8,6 +8,8 @@ This site is built using [Hugo].
 
 The Hugo theme that is used for the site is [beautifulhugo].
 
+Checkout <https://github.com/adityatelange/hugo-PaperMod/wiki>
+
 ### Development
 
 #### Run Locally
@@ -41,7 +43,7 @@ Commits to main trigger a [Github Actions] workflow that
 * SCP static assets to workload in the cloud
 
 [hugo]: https://gohugo.io/
-[beautifulhugo]: https://themes.gohugo.io/themes/beautifulhugo/
+[hugo-papermod]: https://themes.gohugo.io/themes/hugo-papermod/
 [github actions]: https://docs.github.com/en/actions
 [commands]: https://gohugo.io/commands/hugo/
 [lint markdown]: https://github.com/DavidAnson/markdownlint/
