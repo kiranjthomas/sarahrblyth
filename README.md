@@ -6,7 +6,7 @@ This site is built using [Hugo].
 
 ### Theme
 
-The Hugo theme that is used for the site is [beautifulhugo].
+The Hugo theme that is used for the site is [hugo-papermod].
 
 Checkout <https://github.com/adityatelange/hugo-PaperMod/wiki>
 
