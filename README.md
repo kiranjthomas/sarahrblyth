@@ -2,6 +2,8 @@
 
 ## How do I add a new page?
 
+1. create post using https://stackedit.io/app#
+1. copy markdown (from left column)
 1. go to <https://github.com/kiranjthomas/sarahrblyth/tree/main/content/posts>
 1. click `Add file`
 1. click `Create new file`
@@ -18,7 +20,7 @@
 
 1. update `<insert-title-of-post>` with the title of your post
 1. update date with the current date
-1. add contents of your post using markdown
+1. paste contents of your post from step 1
 1. save your file by scrolling to the bottom and
     1. adding a description for what you added
     1. clicking `Commit new file`
@@ -26,8 +28,6 @@
 
 ## Tips
 
-### Markdown Cheat Sheet
+### Use Markdown Editor to Create Your Page
 
-checkout https://www.markdownguide.org/cheat-sheet/
-
-### Adding Images
+https://stackedit.io/app#
