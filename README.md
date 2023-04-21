@@ -1,49 +1,33 @@
 # sarahrblyth
 
-## Hugo
+## How do I add a new page?
 
-This site is built using [Hugo].
+1. go to <https://github.com/kiranjthomas/sarahrblyth/tree/main/content/posts>
+1. click `Add file`
+1. click `Create new file`
+    ![Create new file](/static/images/create-new-file.png)
+1. add the following to the top of the file
 
-### Theme
+    ```md
+    ---
+    title: "<insert-title-of-post>"
+    date: 2023-04-19T00:00:00-05:00
+    draft: false
+    ---
+    ```
 
-The Hugo theme that is used for the site is [hugo-papermod].
+1. update `<insert-title-of-post>` with the title of your post
+1. update date with the current date
+1. add contents of your post using markdown
+1. save your file by scrolling to the bottom and
+    1. adding a description for what you added
+    1. clicking `Commit new file`
+    ![Create new file](/static/images/commit.png)
 
-Checkout <https://github.com/adityatelange/hugo-PaperMod/wiki>
+## Tips
 
-### Development
+### Markdown Cheat Sheet
 
-#### Run Locally
+checkout https://www.markdownguide.org/cheat-sheet/
 
-`hugo server --buildDrafts`
-
-For more information, visit the Hugo [commands] documentation
-
-#### Add New Post
-
-`hugo new posts/<new-post>.md`
-
-When you are ready to publish the post, remember to update the draft status
-
-```md
----
-title: "Example title"
-date: 2023-01-12T10:56:57-06:00
-draft: false <----update this to true
----
-```
-
-#### Follow Markdown Syntax
-
-## Deployment
-
-Commits to main trigger a [Github Actions] workflow that
-
-* `hugo --minify`
-* [lint markdown]
-* SCP static assets to workload in the cloud
-
-[hugo]: https://gohugo.io/
-[hugo-papermod]: https://themes.gohugo.io/themes/hugo-papermod/
-[github actions]: https://docs.github.com/en/actions
-[commands]: https://gohugo.io/commands/hugo/
-[lint markdown]: https://github.com/DavidAnson/markdownlint/
+### Adding Images
