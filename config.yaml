@@ -32,9 +32,9 @@ params:
             but left my position to become my son’s primary caregiver. Through the [LEND](https://disabilitystudies.utexas.edu/act-lend
             ) program, I hope to merge my professional and personal experiences and find a role that allows me 
             to connect with families who have a loved one with a neurodevelopmental diagnosis.  
-        buttons:
-        - name: Blog
-        url: "/blog"
+        # buttons:
+        # - name: Blog
+        # url: "/blog"
 
     socialIcons:
         - name: "Linkedin"
