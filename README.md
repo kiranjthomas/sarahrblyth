@@ -26,8 +26,6 @@
     1. clicking `Commit new file`
     ![Create new file](/static/images/commit.png)
 
-## Tips
+## How Do I see What Options Are Available?
 
-### Use Markdown Editor to Create Your Page
-
-https://stackedit.io/app#
+Go to <https://adityatelange.github.io/hugo-PaperMod/>

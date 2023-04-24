@@ -1,7 +1,0 @@
-baseURL = 'http://sarahrblyth.com/'
-languageCode = 'en-us'
-title = 'Sarah Blyth'
-theme = 'PaperMod'
-
-[params]
-    hideFooter = true

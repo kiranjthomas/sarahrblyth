@@ -1,0 +1,14 @@
+baseURL: 'http://sarahrblyth.com/'
+languageCode: 'en-us'
+title: 'Sarah Blyth'
+theme: 'PaperMod'
+
+params:
+    hideFooter: true
+    homeInfoParams:
+        Title: "PaperMod"
+        Content: >
+            Welcome to demo of hugo's theme PaperMod.
+            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - Do give a 🌟 on Github !
+            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
