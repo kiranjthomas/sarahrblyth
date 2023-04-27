@@ -1,6 +1,7 @@
 baseURL: 'http://sarahrblyth.com/'
 languageCode: 'en-us'
 theme: 'PaperMod'
+title: 'Home'
 
 languages:
     en:
@@ -28,10 +29,9 @@ params:
         title: "Sarah Blyth"
         subtitle: >
             I am the parent to a 7 year old with a rare genetic disorder and multiple neurodevelopmental diagnoses. 
-            I am a Licensed Clinical Social Worker with experience in the mental health field, 
-            but left my position to become my son’s primary caregiver. Through the [LEND](https://disabilitystudies.utexas.edu/act-lend
-            ) program, I hope to merge my professional and personal experiences and find a role that allows me 
-            to connect with families who have a loved one with a neurodevelopmental diagnosis.  
+            I left my career as a Licensed Clinical Social Worker in the mental health field to become my son’s 
+            primary caregiver. After completing the [ACT LEND](https://disabilitystudies.utexas.edu/act-lend) program 
+            I hope to become a family advocate that merges my personal and professional experiences. REMOVE ME
         # buttons:
         # - name: Blog
         # url: "/blog"
