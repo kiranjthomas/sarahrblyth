@@ -18,6 +18,8 @@ languages:
                   weight: 5
 
 params:
+    custom_css: ["css/custom.css"]
+
     hideFooter: true
     
     profileMode:
