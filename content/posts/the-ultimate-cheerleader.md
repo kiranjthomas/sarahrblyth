@@ -12,7 +12,7 @@ As the presenter continued, I was bombarded by two moms who were members of the 
 
 Right after she finished, another mom pulled up a chair next to me (while the presenter continued speaking). She proceeded to open a trifold board with photos of her child that contained a brief summary of their diagnosis and personality traits. She essentially began to proselytize the benefits of ABA and informed me that I really needed to put my son in ABA therapy. She continued to speak until I interrupted her and told her that we had tried ABA, but I didn’t think it was right for our family. I told her that he was now in school and that we were really happy with how he’s progressing. Her shoulders and facial expression literally dropped. She closed her trifold board and went back to her original seat.
 
-I sat there a bit in shock, and left as soon as the presenter finished. I did not expect to be lectured by fellow family members of another LEND program. I had assumed we had an unspeakable kinship, and honestly, I felt a bit betrayed.
+I sat there a bit in shock, and left as soon as the presenter finished. I did not expect to be lectured by fellow family members of another LEND program. I had assumed we had an unspoken kinship, and honestly, I felt a bit betrayed.
 
 As time passed and my initial reaction settled, I’ve thought more about this intense interaction. I think these family members do feel a kinship to me and this is the exact reason they spoke so passionately to me. They had found something that “worked” for their children and they were eager to share.
 
