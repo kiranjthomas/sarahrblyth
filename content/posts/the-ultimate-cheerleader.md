@@ -1,5 +1,5 @@
 ---
-title: "<The Ultimate Cheerleader>"
+title: "The Ultimate Cheerleader"
 date: 2023-04-27T00:00:00-05:00
 draft: false
 ---
