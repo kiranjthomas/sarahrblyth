@@ -16,6 +16,9 @@ languages:
                 - name: Posts
                   url: posts
                   weight: 5
+                - name: Resources
+                  url: resources
+                  weight: 5
 
 params:
     custom_css: ["css/custom.css"]
